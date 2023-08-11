@@ -17,3 +17,7 @@ Did you know? Even EC2 is a Block Storage! Haha
 You only need a ec2! any ec2 within the same availablility zone can get attached to EBS
 When we say scalability and durability at the time of failure, it means it creates a replica of (EBS or S3) whateevr you have 
 and then connects witht the ec2
+A bandwidth we all know is the number of data packets being tranferred at a time can be measured, but throught means the entire data
+and how much time it takes to be received at the destination. We are measure a data packet in bandwidth and the entire data in throughput
+EBS are of 3 types: General , High and Middle Class
+General : By default said many times, ebs comes with ebs and it is basically a ssd with 10k IOPS and 160 MB/s throughput
