@@ -5,4 +5,9 @@ It covers 7 problems: Data Migration, Redundancy, Management, Vendor-Lock In, Sc
 Storage Architecture is matter if discussion as we have vital information stored and it has to untouched
 Switch as we knoe is used to connect several devices on network, but router is connected to switch, so you can image how big of a network it can become.
 way before multiple az, RAID were there that helped in saving data in multiple hdds and ssds.  RAID means redundant array of independent disk
-Components of Storage Configuration are: UI Front-End, Master Node for control and communicate with Compute Node. Compute Node for calculations
+Components of Storage Configuration are: UI Front-End, Master Node for control and communicate with Compute Node. 
+Compute Node for calculations, File system for easy access on different location of clusters , Network with low latency and high bandwidth
+Architectures of Storage: Multi-tiered, Clustered, Tighlty & Loosely Coupled, Distributed
+Challenge: We are now in the world of data, Massive amount of diverse data coming from various channels and 
+we need real-time data for analysis 
+A DIKW model 1 is relationship between Data, Information, Knowledge and Wisdom. Each one represents a step towards higher level
