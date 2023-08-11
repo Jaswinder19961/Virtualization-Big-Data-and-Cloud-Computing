@@ -7,3 +7,7 @@ ebs is limited to ec2 instance  but S3 is not limited, and can be accessed remot
 S3 is object type and can only be used to store objects like static pages, logs, or anything metadata
 EBS can be used to install operating, it works as a root volume where os resides in, that cannot happen with s3
 Some free ka gyan: Free tier S3 gives free 100 buckets, 5gb each and only pay it exceeds the limits  
+Now even storage has class just like humans: Standard for any permanent data-> 
+Standard Infrequent Acess, for keeping backup data for 30 days, after 30 days moved to glacier ->
+Glacier archives the data for 90 days, not cost for retention but for retrieval,...
+Deep Glacier for 180 days retention also called double recharge
