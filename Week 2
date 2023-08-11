@@ -20,4 +20,5 @@ and then connects witht the ec2
 A bandwidth we all know is the number of data packets being tranferred at a time can be measured, but throught means the entire data
 and how much time it takes to be received at the destination. We are measure a data packet in bandwidth and the entire data in throughput
 EBS are of 3 types: General , High and Middle Class
-General : By default said many times, ebs comes with ebs and it is basically a ssd with 10k IOPS and 160 MB/s throughput
+General : By default said many times, ebs comes with ebs and it is basically a ssd with 10k IOPS per gb data and 160 MB/s throughput per volume
+High (Provisioned) : 20k IOPS per GB and 320MB/s per Volume and all these can be doubled up with adding more volumes
