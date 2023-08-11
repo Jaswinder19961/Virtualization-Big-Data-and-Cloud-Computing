@@ -29,3 +29,6 @@ If we speak of EBS, S3 and EFS, how is the data being hosted?
 Answer: iSCSi for EBS, API ie http/https requests, EFS attached to EC2
 Performance interms of throughput from low to high is Block-EFS-S3 vice versa for Latency
 SO how to convice the company what storage type to use?
+You first ask where you data would you want to be accessible ? On EC2 or outside arround the world?
+If outside answer is simple its s3, if ec2 then we have efs and ebs. 
+But, now the difference would be interms of data writing(Uploading) and reading(retreival), if we only need to read than EFS other EBS
