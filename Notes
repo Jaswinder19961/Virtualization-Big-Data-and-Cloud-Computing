@@ -11,3 +11,5 @@ Architectures of Storage: Multi-tiered, Clustered, Tighlty & Loosely Coupled, Di
 Challenge: We are now in the world of data, Massive amount of diverse data coming from various channels and 
 we need real-time data for analysis 
 A DIKW model 1 is relationship between Data, Information, Knowledge and Wisdom. Each one represents a step towards higher level
+In a certain event, Data with given Context becomes Information, Info with given meaning becomes knowledge, 
+a knowledge with a given understaning becomes wisdom
