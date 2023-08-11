@@ -4,3 +4,5 @@ If we want to just store data, we can use s3 simple storage device that can be u
 If we need our current storage to be extended, we can use ebs: elastic block storage
 Difference: S3 can be created and used from multiple availability zones, but ebs stays only in single az.
 ebs is limited to ec2 instance  but S3 is not limited, and can be accessed remotely from anywhere.
+S3 is object type and can only be used to store objects like static pages, logs, or anything metadata
+EBS can be used to install operating, it works as a root volume where os resides in, that cannot happen with s3
