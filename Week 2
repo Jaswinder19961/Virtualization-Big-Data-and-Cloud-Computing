@@ -15,3 +15,5 @@ Intelligent tiering: can optimize cost as its very intelligent and optimise freq
 reduced redundancy: average non-intelligent tiering: it reduces the latency and that reduces cost but only good for non-important data
 Did you know? Even EC2 is a Block Storage! Haha
 You only need a ec2! any ec2 within the same availablility zone can get attached to EBS
+When we say scalability and durability at the time of failure, it means it creates a replica of (EBS or S3) whateevr you have 
+and then connects witht the ec2
