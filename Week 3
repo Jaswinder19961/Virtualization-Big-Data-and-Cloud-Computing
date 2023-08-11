@@ -1,0 +1,3 @@
+EBS and EFS are storage which are connected to ec2 with mounting.
+For EFS a amazon-efs utility is installed on ec2 and then made a directory inside the efs created dir
+Where EBS after created on ec2 under same az, we get its directory check desire2learn for the exact location. Format it mount it and useit
