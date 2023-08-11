@@ -1,0 +1,9 @@
+Steps - Create and attach new volumes
+1. Create volume
+2. Attach to ec2
+3. Connect to ec2
+4. Go to disk management
+5. Make new volume online
+6. Initialize volume
+7. Format
+8. Ready to use
