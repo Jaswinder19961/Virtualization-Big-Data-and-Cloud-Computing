@@ -11,3 +11,5 @@ Now even storage has class just like humans: Standard for any permanent data->
 Standard Infrequent Acess, for keeping backup data for 30 days, after 30 days moved to glacier ->
 Glacier archives the data for 90 days, not cost for retention but for retrieval,...
 Deep Glacier for 180 days retention also called double recharge
+Intelligent tiering: can optimize cost as its very intelligent and optimise frequently accessed data
+reduced redundancy: average non-intelligent tiering: it reduces the latency and that reduces cost but only good for non-important data
