@@ -3,3 +3,4 @@ Basically, the SAN is a pool of physical storage arrays which are connected toge
 In short we are giving capabilities to lower-level storage
 It covers 7 problems: Data Migration, Redundancy, Management, Vendor-Lock In, Scalability, Cost last but not the least ie Performance
 Storage Architecture is matter if discussion as we have vital information stored and it has to untouched
+Switch as we knoe is used to connect several devices on network, but router is connected to switch, so you can image how big of a network it can become.
