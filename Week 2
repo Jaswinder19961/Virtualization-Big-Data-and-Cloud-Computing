@@ -13,3 +13,5 @@ Glacier archives the data for 90 days, not cost for retention but for retrieval,
 Deep Glacier for 180 days retention also called double recharge
 Intelligent tiering: can optimize cost as its very intelligent and optimise frequently accessed data
 reduced redundancy: average non-intelligent tiering: it reduces the latency and that reduces cost but only good for non-important data
+Did you know? Even EC2 is a Block Storage! Haha
+You only need a ec2! any ec2 within the same availablility zone can get attached to EBS
