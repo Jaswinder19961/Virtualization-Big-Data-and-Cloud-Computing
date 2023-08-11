@@ -1,2 +1,6 @@
 We are now looking at cloud storage types: ie Block, Files, Object
 There are several benefits of cloud Storage: Agility and Durability, Scalability, in-time capacity, cheapisty, no need to save on-prem
+If we want to just store data, we can use s3 simple storage device that can be used for keeping private data or even for hosting webpages
+If we need our current storage to be extended, we can use ebs: elastic block storage
+Difference: S3 can be created and used from multiple availability zones, but ebs stays only in single az.
+ebs is limited to ec2 instance  but S3 is not limited, and can be accessed remotely from anywhere.
