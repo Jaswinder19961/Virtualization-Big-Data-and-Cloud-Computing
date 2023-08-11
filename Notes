@@ -27,3 +27,6 @@ Moreover, the data is integrated from disparate sources and is distinguised base
 SOurces are DataWarehouse, Enterprise Application, Cloud SaaS application, BigData, Excel, XML and PDDF files
 Consumers are user devices, BI, Reporting tools, again enterprise applications
 Even data virtualization can be hybrid, we can keep our data on-premise and on cloud making it giving hybrid-cloud approach
+
+Since we have been talking a lot about data virtualization that access data in real-time, but its happening due to data integratin 
+which happens by collecting all the data and moving to consolidated repository for access.
