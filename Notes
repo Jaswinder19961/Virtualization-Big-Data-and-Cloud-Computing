@@ -26,3 +26,4 @@ Lastly keeping data updated
 Moreover, the data is integrated from disparate sources and is distinguised based on data sources and consumers:
 SOurces are DataWarehouse, Enterprise Application, Cloud SaaS application, BigData, Excel, XML and PDDF files
 Consumers are user devices, BI, Reporting tools, again enterprise applications
+Even data virtualization can be hybrid, we can keep our data on-premise and on cloud making it giving hybrid-cloud approach
