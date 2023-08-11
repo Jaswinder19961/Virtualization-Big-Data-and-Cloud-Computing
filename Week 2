@@ -24,3 +24,5 @@ General : By default said many times, ebs comes with ebs and it is basically a s
 High (Provisioned) : 20k IOPS per GB and 320MB/s per Volume and all these can be doubled up with adding more volumes as you know.
 Upar wala is good for Databases, as it is resource intensive workloads.
 Next up, Middle Class: It is cheap and instead backed up magnetic drives giving 20 to 400 IOPS per GB, best for no-frequent data.
+If we speak of EBS, S3 and EFS, how is the data being hosted? 
+Answer: iSCSi for EBS, API ie http/https requests, EFS attached to EC2
