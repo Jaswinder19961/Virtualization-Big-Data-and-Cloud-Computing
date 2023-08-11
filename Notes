@@ -18,3 +18,7 @@ A processed data is required for firther analysis, forecasting, and business ana
 A datgoes through following in DKIW model 3: Starting from Operation normal use PI-> Tactical something new KPI->
 Strategic improvements CSF-> Now we here at wisdom further we do judgement, that helps in taking action and later we get expereince out of it
 Types of Data: Structured means Tables , Unstructed means a google search page and Semi-Structured can be XML
+EVerything comes under regulations, even for data we have compliance GDPR: General Data Protection Regulation has 7 rules:
+>Collection of data should be for legitimate purposes, then the processing must be done legally, faily and be transparent way
+>After processing , it should be stored and kept secure away from being stolen, damaged or lost.
+Lastly keeping data updated
