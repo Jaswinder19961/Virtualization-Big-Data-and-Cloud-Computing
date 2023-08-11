@@ -6,6 +6,7 @@ Difference: S3 can be created and used from multiple availability zones, but ebs
 ebs is limited to ec2 instance  but S3 is not limited, and can be accessed remotely from anywhere.
 S3 is object type and can only be used to store objects like static pages, logs, or anything metadata
 EBS can be used to install operating, it works as a root volume where os resides in, that cannot happen with s3
+---------------------------------------------------------------------------------------------------------------------------------
 Some free ka gyan: Free tier S3 gives free 100 buckets, 5gb each and only pay it exceeds the limits  
 Now even storage has class just like humans: Standard for any permanent data-> 
 Standard Infrequent Acess, for keeping backup data for 30 days, after 30 days moved to glacier ->
@@ -27,3 +28,4 @@ Next up, Middle Class: It is cheap and instead backed up magnetic drives giving 
 If we speak of EBS, S3 and EFS, how is the data being hosted? 
 Answer: iSCSi for EBS, API ie http/https requests, EFS attached to EC2
 Performance interms of throughput from low to high is Block-EFS-S3 vice versa for Latency
+SO how to convice the company what storage type to use?
