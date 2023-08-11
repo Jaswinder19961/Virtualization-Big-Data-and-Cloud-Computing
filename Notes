@@ -22,3 +22,7 @@ EVerything comes under regulations, even for data we have compliance GDPR: Gener
 >Collection of data should be for legitimate purposes, then the processing must be done legally, faily and be transparent way
 >After processing , it should be stored and kept secure away from being stolen, damaged or lost.
 Lastly keeping data updated
+
+Moreover, the data is integrated from disparate sources and is distinguised based on data sources and consumers:
+SOurces are DataWarehouse, Enterprise Application, Cloud SaaS application, BigData, Excel, XML and PDDF files
+Consumers are user devices, BI, Reporting tools, again enterprise applications
